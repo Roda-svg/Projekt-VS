@@ -63,10 +63,3 @@ Enkelt sagt: Extensions fungerar som extra verktyg eller appar som ger VS Code f
 | `Cmd + P` | Hitta en fil |
 
 ---
-
-## <span style="color: #483D8B;">6. Att tänka på!</span>
-När man börjar använda VS Code kan det kännas som att det finns väldigt mycket att lära sig. Men man behöver inte förstå allt direkt.
-
-Börja man att lära dig var filerna finns, var man skriver koden och hur de olika funktionerna fungerar. Resten kommer efter hand!
-
-
