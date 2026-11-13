@@ -16,7 +16,7 @@ I VS Code kan man samla sina filer och mappar på ett ställe. Det gör det enkl
 
 ## <span style="color: #7054A5;">1. Explorer - Filer och mappar</span>
 - Explorer är den del där man får en överblick över hela sitt projekt.
-- Här kan man se alla filer och mappar som tillhör projektet och enkelt hålla ordning på dem.
+- filer och mappar som tillhör projektet och enkelt hålla ordning på dem.
 - Man kan skapa nya filer och mappar, byta namn på dem eller ta bort sådant man inte längre behöver.
 - Det gör det enklare att organisera sitt arbete och snabbt hitta filen man vill fortsätta arbeta med dem.
 
