@@ -1,7 +1,6 @@
 <div style="text-align: center;"
 >
 <h1 style="color: #483DBB; font-size: 36px;">Visual Studio Code</h1>
-<h2 style="color: #8064B2; font-size: 25px;">CHEATSHEET</h2>
 <p style="color: #888; font-size: 16px;"> En liten guide VS Code för nybörjare </p>
 </div>
 
